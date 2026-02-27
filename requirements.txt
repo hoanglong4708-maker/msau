@@ -1,0 +1,14 @@
+psutil
+websockets
+art
+rich
+httpx
+requests
+bs4
+ab5
+colorama
+pyfiglet
+aiohttp
+pystyle
+paho-mqtt
+streamlit 
